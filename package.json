@@ -1,0 +1,26 @@
+{
+  "name": "vue-finger",
+  "version": "0.1.0",
+  "main": "vue-finger.js",
+  "files": [
+    "vue-finger.js"
+  ],
+  "description": "alloy_finger based touch events plugin for Vue2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shhdgit/vue-finger.git"
+  },
+  "bugs": "https://github.com/shhdgit/vue-finger/issues",
+  "dependencies": {
+    "alloyfinger": "^0.1.2"
+  },
+  "devDependencies": {
+    "uglify-js": "^2.7.4",
+    "vue": "^2.0.0",
+    "webpack": "^1.13.3"
+  },
+  "scripts": {
+    "build": "uglifyjs vue-finger.js -c -m > vue-finger.min.js"
+  }
+}
