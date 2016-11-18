@@ -7,6 +7,8 @@
   ],
   "description": "alloy_finger based touch events plugin for Vue2",
   "license": "MIT",
+  "homepage": "https://github.com/shhdgit/vue-finger",
+  "author": "Suhaha < jklopsdfw@gmail.com >",
   "repository": {
     "type": "git",
     "url": "https://github.com/shhdgit/vue-finger.git"
