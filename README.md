@@ -4,7 +4,7 @@ This is a directive wrapper for [alloyfinger](https://github.com/AlloyTeam/Alloy
 
 ## Demo
 
-[fiddle](https://jsfiddle.net/3y37wext/1/)
+[fiddle](https://jsfiddle.net/3y37wext/3/)
 
 ## Install
 
