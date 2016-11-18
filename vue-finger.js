@@ -69,15 +69,6 @@
     })
   }
 
-  /**
-   * Register a custom event.
-   *
-   * @param {String} event
-   * @param {Object} options - a Hammer.js recognizer option object.
-   *                           required fields:
-   *                           - type: the base recognizer to use for this event
-   */
-
   function _defineProperty (obj, key, value) {
     if (key in obj) {
       Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true })
