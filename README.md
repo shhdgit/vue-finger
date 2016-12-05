@@ -1,6 +1,6 @@
 ## Intro
 
-This is a directive wrapper for [alloyfinger](https://github.com/AlloyTeam/AlloyFinger).
+~~This is a directive wrapper for alloyfinger.~~ use [official](https://github.com/AlloyTeam/AlloyFinger)
 
 ## Demo
 
